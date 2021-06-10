@@ -16,7 +16,7 @@ int main (int argc,char **argv){
         system("java -jar /home/kshitij/Videos/TLauncher-2.75.jar");
     break;
     case 'u':
-        cout <<"latest 1.16.5 \n";
+        cout <<"latest 1.17 \n";
        /* system("java -jar /home/kshitij/Videos/TLauncher-2.75.jar");*/
     break;
     
